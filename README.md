@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iyad Kader @KaderCreates && @iyad-kader
+- 👋 Hi, I’m Iyad Kader @KaderCreates && @Iyad-Kader
 - 👀 I’m interested in MERN Stack Development including MongoDB, and MySQL.
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate!
